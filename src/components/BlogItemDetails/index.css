@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.container{
+  text-align: center;
+}
+.blogsDetailsContainer {
+  padding: 25px;
+}
+.heading {
+  color: #000000;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.avatarIamge {
+  width: 15%;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.authorPara {
+  color: #8e8e8e;
+  font-size: 18px;
+  font-weight: 500;
+}
+.image {
+  width: 100%;
+}
+.contentPara {
+  color: #2f4f4f;
+  font-size: 19px;
+  font-weight: 500;
+  width: 90%;
+}

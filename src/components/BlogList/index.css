@@ -1,0 +1,49 @@
+/* Write your CSS code here */
+.blogListContainer {
+  border-style: solid;
+  border-color: #d3d3d3;
+  border-radius: 8px;
+  width: 90%;
+  list-style-type: none;
+  padding: 20px;
+  font-family: 'Roboto';
+}
+.blogList_itemsContainer {
+  margin-bottom: 31px;
+}
+.blogListImage {
+  width: 100%;
+}
+.blogList_topic {
+  color: #8e8e8e;
+  font-size: 25px;
+  font-weight: 500;
+}
+.blogList_title {
+  color: #000000;
+  font-weight: 600;
+  font-size: 25px;
+}
+.blogList_container {
+  display: flex;
+  align-items: center;
+}
+.blogList_authorImage {
+  width: 20%;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.blogList_author {
+  color: #8e8e8e;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.blogListContainer {
+  text-align: center;
+}
+.linkContainer {
+  outline: none;
+  text-decoration: none;
+  text-align: start;
+}
